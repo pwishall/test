@@ -1,0 +1,3 @@
+dist: jammy
+script: echo "hello"
+install: skip
